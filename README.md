@@ -1,7 +1,7 @@
 # Turtle-Kullanimi İLE Basit-Cizim yapımı.
 Çizimleri görmek için Tıkla
 
-https://i.hizliresim.com/azMz8Q
+https://i.hizliresim.com/azMz8Q.PNG
 
 
 https://hizliresim.com/gOVORO
