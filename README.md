@@ -1,8 +1,7 @@
-# Turtle-Kullanimi İLE Basit-Cizim yapımı.
-Çizimleri görmek için Tıkla
+# Turtle-İLE Basit-Cizim .
+# Çizimleri görmek için Tıkla
 
-https://i.hizliresim.com/azMz8Q.PNG
-
+https://hizliresim.com/y0o0Wn
 
 https://hizliresim.com/gOVORO
 
